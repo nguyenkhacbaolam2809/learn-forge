@@ -73,7 +73,7 @@ function Dashboard() {
       <header className="topbar-full">
         <div className="topbar-content">
           <div className="topbar-left">
-            <div className="logo">VNOI Wiki</div>
+            <div className="logo">Learn Forge</div>
           </div>
 
           <div className="topbar-center">
