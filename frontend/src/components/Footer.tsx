@@ -7,10 +7,10 @@ export default function Footer() {
     <footer className="site-footer card">
       <div className="footer-inner">
         <div className="footer-left">
-          <strong>VNOI Wiki</strong>
+          <strong>Learn Forge</strong>
           <p className="muted">{t('dashboardSubtitle')}</p>
         </div>
-        <div className="footer-right muted">© {new Date().getFullYear()} VNOI-style LMS</div>
+        <div className="footer-right muted">© {new Date().getFullYear()} Learn Forge</div>
       </div>
     </footer>
   );
